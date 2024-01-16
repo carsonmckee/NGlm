@@ -8,5 +8,6 @@ To install this R library in RStudio:
 
 This may require you to first install the 'R-tools' package, R will prompt you to do this if required.
 Once installed type the following in the R console to retrive the documentation/help file:
+
 library(NGlm)
 help(NGlm)
